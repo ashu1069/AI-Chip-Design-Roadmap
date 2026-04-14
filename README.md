@@ -1,6 +1,6 @@
 # AI Chip Design Roadmap
 
-A curated collection of resources for anyone looking to break into AI accelerator and chip design — from foundational digital logic to production architectures and open-source tapeouts.
+A curated collection of resources for anyone looking to break into AI accelerator and chip design, from foundational digital logic to production architectures and open-source tapeouts.
 
 The roadmap is organized as a progression: start with the foundations, build up through GPU programming and hardware description languages, then dive into AI-specific accelerator design, ML compilers, and real company architectures.
 
