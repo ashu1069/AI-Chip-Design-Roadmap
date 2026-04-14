@@ -26,10 +26,10 @@ The roadmap is organized as a progression: start with the foundations, build up 
 
 | Resource | Type | Link |
 |----------|------|------|
-| **Nand2Tetris** — Build a computer from first principles | Book / Course | [PDF](https://github.com/jherskow/nand2tetris/blob/master/nand2tetris%20BOOK.pdf) |
-| **Digital Design and Computer Architecture** — Onur Mutlu, ETH Zurich | Video Lectures | [YouTube Playlist](https://youtube.com/playlist?list=PL5Q2soXY2Zi-yo9kK-BKrq11ykNKkVEpd&si=mMpCVd2lY4JV_MLm) |
-| **Harris & Harris — DDCA RISC-V** | Textbook | [Book Site](https://pages.hmc.edu/harris/ddca/ddcarv.html) |
-| **MIT 6.004 — Computation Structures** | Video Lectures | [YouTube Playlist](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2&si=4dUBEJTA0bZXk4IU) |
+| **Nand2Tetris**: Build a computer from first principles | Book / Course | [PDF](https://github.com/jherskow/nand2tetris/blob/master/nand2tetris%20BOOK.pdf) |
+| **Digital Design and Computer Architecture**: Onur Mutlu, ETH Zurich | Video Lectures | [YouTube Playlist](https://youtube.com/playlist?list=PL5Q2soXY2Zi-yo9kK-BKrq11ykNKkVEpd&si=mMpCVd2lY4JV_MLm) |
+| **Harris & Harris: DDCA RISC-V** | Textbook | [Book Site](https://pages.hmc.edu/harris/ddca/ddcarv.html) |
+| **MIT 6.004: Computation Structures** | Video Lectures | [YouTube Playlist](https://youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2&si=4dUBEJTA0bZXk4IU) |
 
 ---
 
@@ -38,10 +38,10 @@ The roadmap is organized as a progression: start with the foundations, build up 
 | Resource | Type | Link |
 |----------|------|------|
 | **Programming Massively Parallel Processors** | Textbook | [PDF](https://www.cse.iitd.ac.in/~rijurekha/col730_2022/cudabook.pdf) |
-| **Caltech CS179 — GPU Programming** | Course | [Course Page](https://courses.cms.caltech.edu/cs179/) |
-| **Stanford CS149 — Parallel Computing** | Video Lectures + Labs | [YouTube Playlist](https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&si=QFD31ERg-BIpmBqE) / [GitHub](https://github.com/PKUFlyingPig/CS149-parallel-computing) |
+| **Caltech CS179: GPU Programming** | Course | [Course Page](https://courses.cms.caltech.edu/cs179/) |
+| **Stanford CS149: Parallel Computing** | Video Lectures + Labs | [YouTube Playlist](https://youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp&si=QFD31ERg-BIpmBqE) / [GitHub](https://github.com/PKUFlyingPig/CS149-parallel-computing) |
 | **Chisel** — Hardware construction language (UC Berkeley) | HDL / Tool | [chisel-lang.org](https://www.chisel-lang.org/) |
-| **Computer Architecture: A Quantitative Approach** — Chapter 7: Domain-Specific Architectures | Textbook | [PDF](https://dn790008.ca.archive.org/0/items/computerarchitectureaquantitativeapproach6thedition/Computer%20Architecture%3A%20A%20Quantitative%20Approach%206th%20Edition.pdf) |
+| **Computer Architecture: A Quantitative Approach** - Chapter 7: Domain-Specific Architectures | Textbook | [PDF](https://dn790008.ca.archive.org/0/items/computerarchitectureaquantitativeapproach6thedition/Computer%20Architecture%3A%20A%20Quantitative%20Approach%206th%20Edition.pdf) |
 
 ---
 
@@ -49,9 +49,9 @@ The roadmap is organized as a progression: start with the foundations, build up 
 
 | Resource | Type | Link |
 |----------|------|------|
-| **Efficient Processing of DNNs** — Sze et al. | Paper + Book | [Paper](https://arxiv.org/pdf/1703.09039) / [Book](https://link.springer.com/book/10.1007/978-3-031-01766-7) |
-| **Stanford CS217 — Hardware Accelerators for Machine Learning** | Course | [cs217.stanford.edu](https://cs217.stanford.edu/) |
-| **MIT — TinyML and Efficient Deep Learning Computing** | Video Lectures | [YouTube Playlist](https://youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB&si=DBDpd2N0Mr9EaAyM) |
+| **Efficient Processing of DNNs**: Sze et al. | Paper + Book | [Paper](https://arxiv.org/pdf/1703.09039) / [Book](https://link.springer.com/book/10.1007/978-3-031-01766-7) |
+| **Stanford CS217: Hardware Accelerators for Machine Learning** | Course | [cs217.stanford.edu](https://cs217.stanford.edu/) |
+| **MIT: TinyML and Efficient Deep Learning Computing** | Video Lectures | [YouTube Playlist](https://youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB&si=DBDpd2N0Mr9EaAyM) |
 
 ---
 
@@ -124,7 +124,7 @@ The roadmap is organized as a progression: start with the foundations, build up 
 
 ## Company Architecture Deep Dives
 
-These companies represent different points on the specialization spectrum — from transformer-only ASICs to general-purpose GPUs — and make fundamentally different bets on memory hierarchy, execution models, and workload evolution.
+These companies represent different points on the specialization spectrum, from transformer-only ASICs to general-purpose GPUs, and make fundamentally different bets on memory hierarchy, execution models, and workload evolution.
 
 ### Specialization Spectrum
 
@@ -177,12 +177,12 @@ Etched          Groq          Cerebras/MatX    Tenstorrent/SambaNova    GPUs
 
 - [MatX Research](https://matx.com/research)
 
-### SambaNova (RDU — Reconfigurable Dataflow Unit)
+### SambaNova (RDU: Reconfigurable Dataflow Unit)
 
 - [SambaNova RDU: Reconfigurable Architectures for Inference, Training, and Agentic AI](https://medium.com/@leosorge/sambanova-rdu-reconfigurable-architectures-for-inferencefor-inference-training-and-agentic-ai-5088b5ca400b)
 - [SambaNova Architecture Paper](https://arxiv.org/html/2405.07518v1)
 
-### Graphcore (IPU — Intelligence Processing Unit)
+### Graphcore (IPU: Intelligence Processing Unit)
 
 - [SoftBank Acquires Graphcore](https://www.trendforce.com/news/2024/07/16/news-softbank-acquired-graphcore-hinting-at-a-battle-between-ipu-and-gpu/)
 - [IPU Programmer's Guide](https://docs.graphcore.ai/projects/ipu-programmers-guide/en/latest/about_ipu.html)
@@ -193,7 +193,7 @@ Etched          Groq          Cerebras/MatX    Tenstorrent/SambaNova    GPUs
 - [Gaudi Architecture Overview](https://docs.habana.ai/en/latest/Gaudi_Overview/Gaudi_Architecture.html)
 - [Intel Merges Habana with Xe GPUs](https://www.techinsights.com/blog/intel-merges-habana-xe-gpus)
 
-### Etched (Sohu — Transformer ASIC)
+### Etched (Sohu: Transformer ASIC)
 
 - [etched.com](https://www.etched.com/)
 - [Etched — Wikipedia](https://en.wikipedia.org/wiki/Etched_(company))
@@ -202,12 +202,12 @@ Etched          Groq          Cerebras/MatX    Tenstorrent/SambaNova    GPUs
 
 ## Research and Preparation
 
-- **Read company architecture papers** — Groq TSP, Cerebras WSE, NVIDIA whitepapers (linked above)
+- **Read company architecture papers**: Groq TSP, Cerebras WSE, NVIDIA whitepapers (linked above)
 - **Follow top conferences** — ISCA, MICRO, ASPLOS, Hot Chips, MLSys
-- **Try open-source ASIC flows** — Experiment with [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) + [SKY130 PDK](https://github.com/google/skywater-pdk) for open-source tapeouts
-- **Contribute to open-source accelerator projects** — Gemmini, Chisel ecosystem, TT-Metalium
-- **Study the business side** — [Acquired podcast (NVIDIA episodes)](https://www.acquired.fm/), SemiAnalysis deep dives, Fabricated Knowledge
-- **Build something real** — Even a small systolic array taped out through [Tiny Tapeout](https://tinytapeout.com/) (~$50) demonstrates real capability
+- **Try open-source ASIC flows**: Experiment with [OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) + [SKY130 PDK](https://github.com/google/skywater-pdk) for open-source tapeouts
+- **Contribute to open-source accelerator projects**: Gemmini, Chisel ecosystem, TT-Metalium
+- **Study the business side**: [Acquired podcast (NVIDIA episodes)](https://www.acquired.fm/), SemiAnalysis deep dives, Fabricated Knowledge
+- **Build something real**: Even a small systolic array taped out through [Tiny Tapeout](https://tinytapeout.com/) (~$50) demonstrates real capability
 
 ---
 
@@ -236,11 +236,11 @@ Etched          Groq          Cerebras/MatX    Tenstorrent/SambaNova    GPUs
 
 **Three non-obvious recommendations:**
 
-1. **Spend disproportionate time on FlashAttention and the Roofline Model** — Hardware-aware algorithm design increasingly determines whether new silicon succeeds or fails.
+1. **Spend disproportionate time on FlashAttention and the Roofline Model**: Hardware-aware algorithm design increasingly determines whether new silicon succeeds or fails.
 
-2. **Build something real early** — Even a tiny systolic array taped out through Tiny Tapeout teaches more about the ASIC flow than months of reading.
+2. **Build something real early**: Even a tiny systolic array taped out through Tiny Tapeout teaches more about the ASIC flow than months of reading.
 
-3. **Study company deep dives for strategy, not just architecture** — Groq's bet on determinism, Cerebras's wafer-scale gamble, Etched's transformer-only ASIC, and MatX's hybrid memory all represent different theories about where the memory wall, workload evolution, and economics will land. The best chip companies are built on a correct thesis about the future of AI workloads, not just superior circuits.
+3. **Study company deep dives for strategy, not just architecture**: Groq's bet on determinism, Cerebras's wafer-scale gamble, Etched's transformer-only ASIC, and MatX's hybrid memory all represent different theories about where the memory wall, workload evolution, and economics will land. The best chip companies are built on a correct thesis about the future of AI workloads, not just superior circuits.
 
 ---
 
